@@ -1,12 +1,12 @@
 
 import { useMemo, useState } from "react";
 
-import LibraryHeader from "./components/LibraryHeader";
-import LibraryStats from "./components/LibraryStats";
-import LibraryFilters from "./components/LibraryFilters";
-import BookTable from "./components/BookTable";
-import BookFormDialog from "./components/BookFormDialog";
-import DeleteBookDialog from "./components/DeleteBookDialog";
+import LibraryHeader from "./Components/LibraryHeader";
+import LibraryStats from "./Components/LibraryStats";
+import LibraryFilters from "./Components/LibraryFilters";
+import BookTable from "./Components/BookTable";
+import BookFormDialog from "./Components/BookFormDialog";
+import DeleteBookDialog from "./Components/DeleteBookDialog";
 import { initialBooks } from "@/constants/data";
 
 
